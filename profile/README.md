@@ -8,5 +8,5 @@ See project website for more information: https://www.th-brandenburg.de/forschun
 
 - scalec-application: https://github.com/THB-SCALE-C/scalec-application
 
-### Förderhinweis:
+## Förderhinweis:
 Das SCALE-C Projekt wird im Rahmen der StaF-Verbundrichtlinie („Stärkung der technologischen und anwendungsnahen Forschung in Forschungsverbünden von Wissenschaftseinrichtungen“) des Landes Brandenburg (Ministerium für Wissenschaft, Forschung und Kultur, MWFK) gefördert. 
