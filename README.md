@@ -1,0 +1,2 @@
+# .github
+SCALE-C overview
