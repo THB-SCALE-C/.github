@@ -7,6 +7,7 @@ See project website for more information: https://www.th-brandenburg.de/forschun
 ## Public Repositories:
 
 - scalec-application: https://github.com/THB-SCALE-C/scalec-application
+- creaor (SCALE-C content generation and packaging module): https://github.com/THB-SCALE-C/creator
 
 ## Förderhinweis:
 Das SCALE-C Projekt wird im Rahmen der StaF-Verbundrichtlinie („Stärkung der technologischen und anwendungsnahen Forschung in Forschungsverbünden von Wissenschaftseinrichtungen“) des Landes Brandenburg (Ministerium für Wissenschaft, Forschung und Kultur, MWFK) gefördert. 
